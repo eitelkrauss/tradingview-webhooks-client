@@ -1,0 +1,11 @@
+{
+    "require": {
+        "react/http": "^0.8.7",
+        "react/promise": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
