@@ -8,8 +8,8 @@ return[
     $tp = 13,
     ########
     # api ID
-    $id = "",
+    $id = "cyS0rbzb0OWjoX7ViCY2imOA",
     ########
     # api key
-    $secret = ""
+    $secret = "hq5Otpi-pLhvdFeN46xVGFMYsMQXZAlPyhq-N1-E0Wy5IDlv"
 ];

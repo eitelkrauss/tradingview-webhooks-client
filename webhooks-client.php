@@ -5,7 +5,6 @@ require 'config.php';
 
 date_default_timezone_set("UTC");
 
-
 $bitmex = new \App\Wrappers\BitMex($id, $secret);
 
 $loop = \React\EventLoop\Factory::create();

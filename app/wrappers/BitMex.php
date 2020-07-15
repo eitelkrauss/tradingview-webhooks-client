@@ -5,8 +5,8 @@ namespace App\Wrappers;
 
 class BitMex {
 
-  const API_URL = 'https://testnet.bitmex.com';
-  //const API_URL = 'https://www.bitmex.com';
+  //const API_URL = 'https://testnet.bitmex.com';
+  const API_URL = 'https://www.bitmex.com';
   const API_PATH = '/api/v1/';
   const SYMBOL = 'XBTUSD';
 
